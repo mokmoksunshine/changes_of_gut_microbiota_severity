@@ -13,6 +13,7 @@ Scripts of paper "Changes of gut microbiota reflect the severity of major depres
   - vegan
   - ggplot2
   - ggrepel
+  
 3.3_enterotype.R
   - R >= 4.1.2
   - microbiome
@@ -23,6 +24,7 @@ Scripts of paper "Changes of gut microbiota reflect the severity of major depres
   - readxl
   - Cairo
   - tidyverse
+  
 Analysis scripts associated with the following article:
 
 Xi Hu, Yifan Li, Jing Wu, Hanping Zhang, Yu Huang, Xunmin Tan, et al. Changes of gut microbiota reflect the severity of major depressive disorder: a cross sectional study.
